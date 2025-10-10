@@ -66,7 +66,7 @@
 <br />
 <br />
 <br />
-<a href="https://rainwell79-web.github.io/rainwell79-web/" target="_blank">
+<a href="https://rainwell79-web.github.io/kd_web/" target="_blank">
   <img src="https://raw.githubusercontent.com/rainwell79-web/rainwell79-web/refs/heads/main/images/icon_project.png" alt="Git" width="19" align="top" />
   <span>프로젝트 소개페이지로 이동</span>
 </a>
