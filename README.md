@@ -3,7 +3,7 @@
   <p>안녕하세요.<br />개발자 과정 훈련중인 최상림입니다.</p>
   <br />
   <div>
-    <img src="https://raw.githubusercontent.com/rainwell79-web/rainwell79-web/refs/heads/main/images/img_profile_face.jpg" alt="최상림" width="200" />  
+    <img src="https://raw.githubusercontent.com/rainwell79-web/rainwell79-web/refs/heads/main/images/img_dev.jpg" alt="개발" width="300" />  
   </div>
 </div>
 <br />
